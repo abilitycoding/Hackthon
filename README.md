@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![human-heart-dark-background-with-bokeh-3d-illustration_1057-36619-removebg-preview](https://github.com/abilitycoding/Hackthon/assets/135714603/ac937133-6d13-4aa0-95f3-e7483d10bcc4)
 
 ![red-cross-hospital-clinic-logo-health-medicine-computer-icons-health-care-png-clipart-removebg-preview](https://github.com/abilitycoding/Hackthon/assets/135714603/569ffdd3-852d-40d6-b4fb-c42c86a42c81)
+
+![png-clipart-logo-design-health-care-graphics-design-love-text-removebg-preview](https://github.com/abilitycoding/Hackthon/assets/135714603/df82c05b-c12b-4c08-b086-a20cc6a6531e)
